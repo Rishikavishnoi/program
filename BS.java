@@ -2,7 +2,7 @@ package challenges;
 
 
 public class BS {
-
+   //Binary search problem
 	public static void main(String[] args) {
 		int[] arr= {23,21,16,10,20,45,60};
 		int end=arr.length-1;
